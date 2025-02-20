@@ -98,7 +98,7 @@
       
 ### 🏆 简介 Profile
 <img align="right" width=100em src="https://avatars.githubusercontent.com/u/77880495" />
-<p>&emsp;&emsp;嗨~ 你好，我是秋澪AKimio，一名在读大学生。</p>
+<p>&emsp;&emsp;嗨~ 你好，我是秋澪Akimio，一名在读大学生。</p>
 <p>&emsp;&emsp;热爱编程计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <div>&nbsp;</div>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
