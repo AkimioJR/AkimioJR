@@ -114,14 +114,14 @@
 
 <p align = "center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm&show_owner=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=AutoFilm&show_owner=true&theme=dark">
-    <img  alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?Akimio521=anuraghazra&show_owner=true&repo=AutoFilm">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=AutoFilm&show_owner=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=AutoFilm&show_owner=true&theme=dark">
+    <img  alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?AkimioJR=anuraghazra&show_owner=true&repo=AutoFilm">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp&show_owner=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&repo=MediaWarp&show_owner=true&theme=dark">
-    <img alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?username=Akimio521&show_owner=true&repo=MediaWarp">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=MediaWarp&show_owner=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=MediaWarp&show_owner=true&theme=dark">
+    <img alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&show_owner=true&repo=MediaWarp">
   </picture>
 </p>
     </td>
@@ -134,20 +134,20 @@
 ### 📋 数据统计 Statistics
 <p align = "center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=d9faff&text_color=00bbf0&icon_color=005792&bg_color=00204a">
-    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Akimio521&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AkimioJR&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AkimioJR&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=d9faff&text_color=00bbf0&icon_color=005792&bg_color=00204a">
+    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AkimioJR&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Akimio521&row=2&column=3&no-bg=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Akimio521&row=2&column=3&no-bg=true&theme=nord">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Akimio521&row=2&column=3&no-bg=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AkimioJR&row=2&column=3&no-bg=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AkimioJR&row=2&column=3&no-bg=true&theme=nord">
+    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AkimioJR&row=2&column=3&no-bg=true">
   </picture>
 </p>
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akimio521/Akimio521/snake_animation/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akimio521/Akimio521/snake_animation/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akimio521/Akimio521/snake_animation/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkimioJR/AkimioJR/snake_animation/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkimioJR/AkimioJR/snake_animation/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AkimioJR/AkimioJR/snake_animation/github-contribution-grid-snake.svg">
 </picture>
     </td>
   </tr>
