@@ -121,10 +121,19 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=MediaWarp&theme=dark&hide_border=false&border_radius=4.5&card_width=466">
     <img src="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=MediaWarp&theme=default&hide_border=false&border_radius=4.5&card_width=466" width="466" height="auto" loading="lazy">
   </picture>
+
+
+<a href="https://www.star-history.com/#AkimioJR/MediaWarp&AkimioJR/AutoFilm&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AkimioJR/MediaWarp,AkimioJR/AutoFilm&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AkimioJR/MediaWarp,AkimioJR/AutoFilm&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AkimioJR/MediaWarp,AkimioJR/AutoFilm&type=date&legend=top-left" />
+ </picture>
+</a>
+
 </p>
     </td>
   </tr>
-      
 
   <tr>  
     <td>
