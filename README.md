@@ -113,15 +113,13 @@
 ### 🔥 热门仓库 Host Repositories
 
 <p align = "center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=AutoFilm&show_owner=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=AutoFilm&show_owner=true&theme=dark">
-    <img  alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?AkimioJR=anuraghazra&show_owner=true&repo=AutoFilm">
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=AutoFilm&theme=dark&hide_border=false&border_radius=4.5&card_width=466">
+    <img src="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=AutoFilm&theme=default&hide_border=false&border_radius=4.5&card_width=466" width="466" height="auto" loading="lazy">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=MediaWarp&show_owner=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&repo=MediaWarp&show_owner=true&theme=dark">
-    <img alt="AutoFilm" src="https://github-readme-stats.vercel.app/api/pin/?username=AkimioJR&show_owner=true&repo=MediaWarp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=MediaWarp&theme=dark&hide_border=false&border_radius=4.5&card_width=466">
+    <img src="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=MediaWarp&theme=default&hide_border=false&border_radius=4.5&card_width=466" width="466" height="auto" loading="lazy">
   </picture>
 </p>
     </td>
@@ -134,14 +132,16 @@
 ### 📋 数据统计 Statistics
 <p align = "center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AkimioJR&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AkimioJR&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=d9faff&text_color=00bbf0&icon_color=005792&bg_color=00204a">
-    <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=AkimioJR&locale=cn&show_icons=true&hide_border=true&line_height=30&title_color=112d4e&text_color=3f72af&icon_color=dbe2ef&bg_color=f9f7f7">
+    <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/top-langs?username=AkimioJR&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&hide=javascript">
+    <img alt="常用语言" src="https://helio-github-stats.vercel.app/api/top-langs?username=AkimioJR&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&hide=javascript" width="466" height="auto" loading="lazy">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AkimioJR&row=2&column=3&no-bg=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AkimioJR&row=2&column=3&no-bg=true&theme=nord">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=AkimioJR&row=2&column=3&no-bg=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api?username=AkimioJR&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=zh-tw&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short">
+    <img alt="Github Stats" src="https://helio-github-stats.vercel.app/api?username=AkimioJR&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=zh-tw&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" width="466" height="auto" loading="lazy">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats-ruby.vercel.app/?user=AkimioJR&theme=dark&hide_border=false&border_radius=4.5&locale=zh_Hans&short_numbers=false&mode=daily&disable_animations=false&card_width=700&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false">
+    <img alt="Github Commit" src="https://github-streak-stats-ruby.vercel.app/?user=AkimioJR&theme=default&hide_border=false&border_radius=4.5&locale=zh_Hans&short_numbers=false&mode=daily&disable_animations=false&card_width=700&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" width="700" height="auto" loading="lazy">
   </picture>
 </p>
 <picture align="center">
