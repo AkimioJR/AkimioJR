@@ -4,67 +4,9 @@
   </picture>
   <p>
     <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
-      <img alt="Go" src="https://skillicons.dev/icons?i=go&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift&theme=dark">
-      <img alt="Swift" src="https://skillicons.dev/icons?i=swift&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
-      <img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
-      <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
-      <img alt="Rust" src="https://skillicons.dev/icons?i=rust&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
-      <img alt="C++" src="https://skillicons.dev/icons?i=cpp&theme=light">
-    </picture>
-  </p>
-  <br>
-   <p>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark">
-      <img alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
-      <img alt="GIT" src="https://skillicons.dev/icons?i=git&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=md&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&theme=dark">
-      <img alt="MarkDown" src="https://skillicons.dev/icons?i=md&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark">
-      <img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=obsidian&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=obsidian&theme=dark">
-      <img alt="obsidian" src="https://skillicons.dev/icons?i=obsidian&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark">
-      <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light">
+      <source media="(prefers-color-scheme: light)" srcset="./assests/skill-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./assests/skill-dark.svg">
+      <img alt="Technology Stack" src="./assests/skill-light.svg">
     </picture>
   </p>
   <picture >
@@ -75,8 +17,9 @@
 <table>
   <tr>
     <td>
-      
+
 ### 🏆 简介 Profile
+
 <img align="right" width=100em src="https://avatars.githubusercontent.com/u/77880495" />
 <p>&emsp;&emsp;嗨~ 你好，我是秋澪Akimio，一名在读大学生。</p>
 <p>&emsp;&emsp;热爱编程计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -89,7 +32,7 @@
   
   <tr>
     <td>
-      
+
 ### 🔥 热门仓库 Host Repositories
 
 <p align = "center">
@@ -104,6 +47,7 @@
     <td>
   
 ### 📋 数据统计 Statistics
+
 <p align = "center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/top-langs?username=AkimioJR&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80&hide=javascript">
