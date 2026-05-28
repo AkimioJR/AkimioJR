@@ -113,15 +113,6 @@
 ### 🔥 热门仓库 Host Repositories
 
 <p align = "center">
-   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=AutoFilm&theme=dark&hide_border=false&border_radius=4.5&card_width=466">
-    <img src="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=AutoFilm&theme=default&hide_border=false&border_radius=4.5&card_width=466" width="466" height="auto" loading="lazy">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=MediaWarp&theme=dark&hide_border=false&border_radius=4.5&card_width=466">
-    <img src="https://helio-github-stats.vercel.app/api/pin?username=AkimioJR&repo=MediaWarp&theme=default&hide_border=false&border_radius=4.5&card_width=466" width="466" height="auto" loading="lazy">
-  </picture>
-
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AkimioJR/MediaWarp,AkimioJR/AutoFilm&type=date&legend=top-left)](https://www.star-history.com/#AkimioJR/MediaWarp&AkimioJR/AutoFilm&type=date&legend=top-left)
 
