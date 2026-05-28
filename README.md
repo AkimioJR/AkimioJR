@@ -4,6 +4,39 @@
   </picture>
   <p>
     <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
+      <img alt="Go" src="https://skillicons.dev/icons?i=go&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=swift&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift&theme=dark">
+      <img alt="Swift" src="https://skillicons.dev/icons?i=swift&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+      <img alt="Python" src="https://skillicons.dev/icons?i=python&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+      <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
+      <img alt="Rust" src="https://skillicons.dev/icons?i=rust&theme=light">
+    </picture>
+    <picture >
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
+      <img alt="C++" src="https://skillicons.dev/icons?i=cpp&theme=light">
+    </picture>
+  </p>
+  <br>
+   <p>
+    <picture >
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark">
       <img alt="VS Code" src="https://skillicons.dev/icons?i=vscode&theme=light">
@@ -11,7 +44,7 @@
     <picture >
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
-      <img alt="GIT" src="https://skillicons.dev/icons?i=vscode&theme=light">
+      <img alt="GIT" src="https://skillicons.dev/icons?i=git&theme=light">
     </picture>
     <picture >
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=md&theme=light">
@@ -24,29 +57,6 @@
       <img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=light">
     </picture>
     <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark">
-      <img alt="Linux" src="https://skillicons.dev/icons?i=linux&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
-      <img alt="Bash" src="https://skillicons.dev/icons?i=bash&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=windows&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=windows&theme=dark">
-      <img alt="Windows" src="https://skillicons.dev/icons?i=windows&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
-      <img alt="PowerShell" src="https://skillicons.dev/icons?i=powershell&theme=light">
-    </picture>
-  </p>
-  <br>
-   <p>
-    <picture >
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=obsidian&theme=light">
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=obsidian&theme=dark">
       <img alt="obsidian" src="https://skillicons.dev/icons?i=obsidian&theme=light">
@@ -55,36 +65,6 @@
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman&theme=light">
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman&theme=dark">
       <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark">
-      <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
-      <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark">
-      <img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nginx&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nginx&theme=dark">
-      <img alt="Nginx" src="https://skillicons.dev/icons?i=nginx&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=regex&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=regex&theme=dark">
-      <img alt="Regex" src="https://skillicons.dev/icons?i=regex&theme=light">
-    </picture>
-    <picture >
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=light">
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare&theme=dark">
-      <img alt="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare&theme=light">
     </picture>
   </p>
   <picture >
