@@ -33,12 +33,13 @@
   <tr>
     <td>
 
-### 🔥 热门仓库 Host Repositories
+### 🔥 热门仓库 Featured Repositories
 
 <p align = "center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AkimioJR/MediaWarp,AkimioJR/AutoFilm&type=date&legend=top-left)](https://www.star-history.com/#AkimioJR/MediaWarp&AkimioJR/AutoFilm&type=date&legend=top-left)
-
+  <a href="https://www.star-history.com/#AkimioJR/MediaWarp&AkimioJR/AutoFilm&type=date&legend=top-left">
+    <img alt="Star History Chart"
+      src="https://api.star-history.com/svg?repos=AkimioJR/MediaWarp,AkimioJR/AutoFilm&type=date&legend=top-left" />
+  </a>
 </p>
     </td>
   </tr>
